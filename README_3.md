@@ -2,7 +2,7 @@
 
 Predicts the price of a laptop from its specifications (brand, RAM, storage, screen, CPU, GPU, weight) using **Linear Regression** (scikit-learn).
 
-`AI101 Mini-Project` `Team __` `Python 3.11+`
+`AI101 Mini-Project` `Team 85` `Python 3.11+`
 
 ## Team and roles
 
