@@ -20,7 +20,7 @@ All four members contributed code (see commit history).
 ```
 laptop-price-predictor/
 ├── data/laptop_data.csv       # 1,303 laptops, 11 columns
-├── laptop_price.ipynb         # cleaning, EDA, Linear Regression, evaluation
+├── laptop_price_prediction.ipynb         # cleaning, EDA, Linear Regression, evaluation
 ├── docs/team_slides.pdf       # 5-slide presentation
 ├── requirements.txt
 └── README.md
