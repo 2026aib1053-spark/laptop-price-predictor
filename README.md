@@ -8,10 +8,10 @@ Predicts the price of a laptop from its specifications (brand, RAM, storage, scr
 
 | Member | Entry no. | Role | Github|
 |---|---|---|---|
-| vutukuru vighnesh koundinya | 2026aib1098 | Documentation lead |
-| madhav shri krishan sharma | 2026aib1053 | Execution lead |
-| masina veerendra kumar | 2026eeb1376 | PPT lead |
-| deependra kumar saini | 2026eeb1340 | Video lead |
+| vutukuru vighnesh koundinya | 2026aib1098 | Documentation lead | 2026aib1098 |
+| madhav shri krishan sharma | 2026aib1053 | Execution lead | 2026aib1053-spark |
+| masina veerendra kumar | 2026eeb1376 | PPT lead | 2026eeb1376 |
+| deependra kumar saini | 2026eeb1340 | Video lead | saini8356 |
 
 All four members contributed code (see commit history).
 
@@ -58,7 +58,6 @@ pip install -r requirements.txt
 
 ## AI-use disclosure
 
-=======
 - Claude: used for learning purpose and guidance in set up. It also help us in execution and understanding the format of Readme.
 - Also used it making of ppt but mostly theory written by ppt lead head
 
