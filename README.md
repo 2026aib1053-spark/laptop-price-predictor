@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ## Links
 
-- Slides (5): `docs/team_slides.pdf`
+- Slides (5): `file:///C:/Users/User/Downloads/Laptop_Price_Prediction_Group_85_Updated.pdf`
 - Video: `<paste YouTube / Drive link>`
 
 ## AI-use disclosure
