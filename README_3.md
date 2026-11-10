@@ -59,4 +59,4 @@ pip install -r requirements.txt
 ## AI-use disclosure
 
 - Claude: drafted the first version of the notebook code; the team reviewed, ran and understood it, and checked the results.
-- (Edit to match what your team actually used.)
+- (Edit to match what your team actually .)
