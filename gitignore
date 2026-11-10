@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large or temporary files (the dataset, notebook, slides PDF and plots are NOT ignored)
+*.zip
+*.log
