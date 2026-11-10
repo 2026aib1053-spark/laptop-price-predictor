@@ -37,8 +37,7 @@ Tested on Python [3.14.6] ([Windows]).
 git clone https://github.com/2026aib1053-spark/laptop-price-predictor.git
 cd laptop-price-predictor
 python -m venv venv
-# Windows:   venv\Scripts\activate
-# Linux/Mac: source venv/bin/activate
+venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
