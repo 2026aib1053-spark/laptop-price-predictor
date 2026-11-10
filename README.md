@@ -6,7 +6,7 @@ Predicts the price of a laptop from its specifications (brand, RAM, storage, scr
 
 ## Team and roles
 
-| Member | Entry no. | Role |
+| Member | Entry no. | Role | Github|
 |---|---|---|
 | vutukuru vighnesh koundinya | 2026aib1098 | Documentation lead |
 | madhav shri krishan sharma | 2026aib1053 | Execution lead |
