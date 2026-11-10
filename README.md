@@ -8,10 +8,10 @@ Predicts the price of a laptop from its specifications (brand, RAM, storage, scr
 
 | Member | Entry no. | GitHub | Role |
 |---|---|---|---|
-| [vutukuru vighnesh koundinya] | [2026aib1098] | [2026aib1098] | Documentation lead |
+| [vutukuru vighnesh koundinya] | [2026aib1098] | [2026aib1098](https://github.com/2026aib1098) | Documentation lead |
 | [madhav shri krishan sharma] | [2026aib1053] | [2026aib1053-spark](https://github.com/2026aib1053-spark) | Execution lead |
-| [masina veerendra kumar] | [2026eeb1376] | [2026eeb1376] | PPT lead |
-| [deependra kumar saini] | [2026eeb1340] | [saini8356] | Video lead |
+| [masina veerendra kumar] | [2026eeb1376] | [2026eeb1376](https://github.com/2026eeb1376) | PPT lead |
+| [deependra kumar saini] | [2026eeb1340] | [saini8356](https://github.com/saini8356) | Video lead |
 
 All four members contributed code (see commit history).
 
