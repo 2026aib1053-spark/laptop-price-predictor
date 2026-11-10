@@ -28,10 +28,10 @@ laptop-price-predictor/
 
 ## Setup
 
-Tested on Python 3.11 (Windows, macOS, Ubuntu).
+Tested on Python 3.11 (Windows).
 
 ```bash
-git clone <repo-url>
+git clone <[github.com/2026aib1053-spark/laptop-price-predictor](https://github.com/2026aib1053-spark/laptop-price-predictor/tree/main)>
 cd laptop-price-predictor
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ## Links
 
-- Slides (5): `file:///C:/Users/User/Downloads/Laptop_Price_Prediction_Group_85_Updated.pdf`
+- Slides (5): `[Laptop_Price_Prediction_Group_85_Updated.pdf](file:///C:/Users/User/Downloads/Laptop_Price_Prediction_Group_85_Updated.pdf)`
 - Video: `<paste YouTube / Drive link>`
 
 ## AI-use disclosure
