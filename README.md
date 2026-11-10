@@ -21,7 +21,7 @@ All four members contributed code (see commit history).
 laptop-price-predictor/
 ├── data/laptop_data.csv       # 1,303 laptops, 11 columns
 ├── laptop_price_prediction.ipynb         # cleaning, EDA, Linear Regression, evaluation
-├── file:///C:/Users/User/Downloads/Laptop_Price_Prediction_Group_85_Updated.pdf      # 5-slide presentation
+├── file:Laptop_Price_Prediction_Group_85_Updated.pdf      # 5-slide presentation
 ├── requirements.txt
 └── README.md
 ```
