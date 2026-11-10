@@ -58,5 +58,5 @@ pip install -r requirements.txt
 
 ## AI-use disclosure
 
-- Claude: drafted the first version of the notebook code; the team reviewed, ran and understood it, and checked the results.
-- (Edit to match what your team actually used.)
+- Claude: used for learning purpose and guidance in set up. It also help us in execution and understanding the format of Readme.
+-Also used it making of ppt but mostly theory written by ppt lead head
