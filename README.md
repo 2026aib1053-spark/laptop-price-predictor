@@ -59,5 +59,5 @@ pip install -r requirements.txt
 ## AI-use disclosure
 
 - Claude: used for learning purpose and guidance in set up. It also help us in execution and understanding the format of Readme.
-- 
--Also used it making of ppt but mostly theory written by ppt lead head
+- Also used it making of ppt but mostly theory written by ppt lead head
+
