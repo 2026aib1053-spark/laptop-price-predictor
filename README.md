@@ -34,7 +34,7 @@ laptop-price-predictor/
 Tested on Python [3.14.6] ([Windows]).
 
 ```bash
-git clone [github.com/2026aib1053-spark/laptop-price-predictor](https://github.com/2026aib1053-spark/laptop-price-predictor)
+git clone https://github.com/2026aib1053-spark/laptop-price-predictor
 cd laptop-price-predictor
 python -m venv venv
 # Windows:   venv\Scripts\activate
