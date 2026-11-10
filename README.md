@@ -9,7 +9,7 @@ Predicts the price of a laptop from its specifications (brand, RAM, storage, scr
 | Member | Entry no. | GitHub | Role |
 |---|---|---|---|
 | [vutukuru vighnesh koundinya] | [2026aib1098] | [2026aib1098] | Documentation lead |
-| [madhav shri krishan sharma] | [2026aib1053] | [2026aib1053-spark] | Execution lead |
+| [madhav shri krishan sharma] | [2026aib1053] | [2026aib1053-spark](https://github.com/2026aib1053-spark) | Execution lead |
 | [masina veerendra kumar] | [2026eeb1376] | [2026eeb1376] | PPT lead |
 | [deependra kumar saini] | [2026eeb1340] | [saini8356] | Video lead |
 
@@ -34,7 +34,7 @@ laptop-price-predictor/
 Tested on Python [3.14.6] ([Windows]).
 
 ```bash
-git clone https://github.com/2026aib1053-spark/laptop-price-predictor
+git clone [github.com/2026aib1053-spark/laptop-price-predictor](https://github.com/2026aib1053-spark/laptop-price-predictor)
 cd laptop-price-predictor
 python -m venv venv
 # Windows:   venv\Scripts\activate
