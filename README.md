@@ -20,12 +20,11 @@ All four members contributed code (see commit history).
 ```
 laptop-price-predictor/
 ├── dataset/
-│   └── laptop_data.csv                        # 1,303 rows x 12 columns ([dataset name and link])
+│   └── laptop_data.csv                         # 1,303 rows x 12 columns ([dataset name and link])
 ├── src/
 │   └── laptop_price_prediction.ipynb           # entry point: preprocessing, training, evaluation, plots
 ├── Laptop_Price_Prediction_Group_85_Updated.pdf         # 5-slide presentation
-├── Requirements/
-│   └── requirements.txt                        # pinned library versions
+├── requirements.txt                            # pinned library versions
 ├── .gitignore
 └── README.md
 ```
