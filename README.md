@@ -58,7 +58,7 @@ Result: MAE 12,565, RMSE 18,397, R² 0.765 (test set). Linear Regression explain
 
 ## Links
 
-Slides (5): [file:///C:/Users/User/Downloads/Laptop_Price_Prediction_Group_85_Updated.pdf](Laptop_Price_Prediction_Group_85_Updated.pdf) - Video: [paste unlisted YouTube or Drive link]
+Slides (5): [file:///C:/Users/User/Downloads/Laptop_Price_Prediction_Group_85_Updated.pdf](Laptop_Price_Prediction_Group_85_Updated.pdf) - Video: [https://drive.google.com/file/d/1knQRBxTITiU59b3-bypPFZb60N3XNkwj/view?usp=sharing](groupno.85 ai project)
 
 ## AI-use disclosure
 
