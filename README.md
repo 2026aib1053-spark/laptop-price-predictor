@@ -40,6 +40,10 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
+If the last command does not work
+```bash
+python -m install -r requirements.txt
+```
 
 If `python` is not found on Windows, use `py` instead. If PowerShell says scripts are disabled when you activate, use Command Prompt, or run `Set-ExecutionPolicy -Scope Process Bypass` first.
 ## How to run
