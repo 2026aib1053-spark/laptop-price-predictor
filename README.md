@@ -31,16 +31,18 @@ laptop-price-predictor/
 
 ## Setup
 
-Tested on Python [3.14.6] ([Windows]).
+Tested on Python 3.14.6 (Windows). Requires Python 3.11 or newer.
 
 ```bash
 git clone https://github.com/2026aib1053-spark/laptop-price-predictor.git
 cd laptop-price-predictor
 python -m venv venv
-venv\Scripts\activate
+# Windows:   venv\Scripts\activate
+# Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+If `python` is not found on Windows, use `py` instead. If PowerShell says scripts are disabled when you activate, use Command Prompt, or run `Set-ExecutionPolicy -Scope Process Bypass` first.
 ## How to run
 
 1. Run `jupyter notebook laptop_price.ipynb`, then choose Kernel -> Restart and Run All (in VS Code: open `laptop_price.ipynb` and click Run All).
