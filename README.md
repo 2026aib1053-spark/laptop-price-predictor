@@ -48,7 +48,7 @@ python -m pip install -r requirements.txt
 If `python` is not found on Windows, use `py` instead. If PowerShell says scripts are disabled when you activate, use Command Prompt, or run `Set-ExecutionPolicy -Scope Process Bypass` first.
 ## How to run
 
-1. Run `jupyter notebook laptop_price.ipynb`, then choose Kernel -> Restart and Run All (in VS Code: open `laptop_price.ipynb` and click Run All).
+1. Run `python -m notebook laptop_price_prediction.ipynb`, then choose Kernel -> Restart and Run All (in VS Code: open the folder where you cloned the repo and then open the notebook `laptop_price_prediction.ipynb` and click Run All).
 2. The notebook prints MAE, MSE, RMSE and R-squared on the test set and shows the plots.
 3. Expected runtime: under 1 minute.
 
